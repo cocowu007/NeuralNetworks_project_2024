@@ -12,7 +12,10 @@ https://groups.csail.mit.edu/vision/datasets/ADE20K/
 https://www.mapillary.com/dataset/vistas
 
 # Team Members
-Yucui Wu + ...
+Yucui Wu (yucui@ut.ee)
+Ulle Puttsepp (ulle.puttsepp@ut.ee)
+Anastasija Rammul (anastasija.rammul@ut.ee)
+Obed Kobina Nsiah (obed.kobina.nsiah@ut.ee)
 
 
 
